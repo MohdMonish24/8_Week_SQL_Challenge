@@ -8,7 +8,6 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 # Entity Relationship Diagram
 
-
 # ![image](https://github.com/MohdMonish24/8_Week_SQL_Challenge/assets/122079171/482b4595-28ec-43ed-a16a-4e0e6da66b09)
 
 
@@ -16,5 +15,4 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 # 1. What is the total amount each customer spent at the restaurant?
 
- #![image](https://github.com/MohdMonish24/8_Week_SQL_Challenge/assets/122079171/7daaf801-cb6b-4260-8e1a-4bc30732e915)
 
