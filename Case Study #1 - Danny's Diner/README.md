@@ -16,12 +16,5 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 # 1. What is the total amount each customer spent at the restaurant?
 
-SELECT 
-  sales.customer_id, 
-  SUM(menu.price) AS total_sales
-FROM dannys_diner.sales
-INNER JOIN dannys_diner.menu
-  ON sales.product_id = menu.product_id
-GROUP BY sales.customer_id
-ORDER BY sales.customer_id ASC;  
+ #![image](https://github.com/MohdMonish24/8_Week_SQL_Challenge/assets/122079171/7daaf801-cb6b-4260-8e1a-4bc30732e915)
 
